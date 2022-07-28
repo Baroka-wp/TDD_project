@@ -67,9 +67,6 @@ Kindly modify the files as needed.
 
 - Twitter: [![Twitter Badge](https://img.shields.io/badge/-hammed-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/ayinla2011)
 
-- Gmail: [![Gmail Badge](https://img.shields.io/badge/-hammed-adisa-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:adisahammed1@gmail.com)
-
-
 
 ## 🤝 Contributing
 
