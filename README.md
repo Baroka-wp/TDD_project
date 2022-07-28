@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# RDD_Project
+# TDD_Project
 
 In this project we  implement a class with some methods by doing test-driven development (TDD).
 
@@ -45,7 +45,7 @@ $ git clone git@github.com:mavericks-db/morse-decoder.git
 
 Kindly modify the files as needed.
 
-## Author
+## Author 1
 
 👤 **Irotori Baroka** 
 
@@ -56,6 +56,16 @@ Kindly modify the files as needed.
 - Twitter: [![Twitter Badge](https://img.shields.io/badge/-birotori-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/birotori)
 
 - Gmail: [![Gmail Badge](https://img.shields.io/badge/-baroka--Irotori-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:birotori@gmail.com)
+
+## Author 2
+
+👤 **Hammed Adisa** 
+
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-hammed-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://linkedin.com/in/hammed-adisa)
+
+- GitHub: [![GitHub Badge](https://img.shields.io/badge/-hammed--wp-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/aburayhaan)
+
+- Twitter: [![Twitter Badge](https://img.shields.io/badge/-hammed-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/ayinla2011)
 
 
 ## 🤝 Contributing
