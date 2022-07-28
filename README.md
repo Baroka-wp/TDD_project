@@ -61,13 +61,13 @@ Kindly modify the files as needed.
 
 👤 **Hammed Adisa** 
 
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-baroka-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://linkedin.com/in/hammed-adisa)
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-hammed-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://linkedin.com/in/hammed-adisa)
 
-- GitHub: [![GitHub Badge](https://img.shields.io/badge/-baroka--wp-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/aburayhaan)
+- GitHub: [![GitHub Badge](https://img.shields.io/badge/-hammed--wp-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/aburayhaan)
 
-- Twitter: [![Twitter Badge](https://img.shields.io/badge/-birotori-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/ayinla2011)
+- Twitter: [![Twitter Badge](https://img.shields.io/badge/-hammed-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/ayinla2011)
 
-- Gmail: [![Gmail Badge](https://img.shields.io/badge/-baroka--Irotori-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:adisahammed1@gmail.com)
+- Gmail: [![Gmail Badge](https://img.shields.io/badge/-hammed-adisa-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:adisahammed1@gmail.com)
 
 
 
