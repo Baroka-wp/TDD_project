@@ -1,8 +1,8 @@
 class Solver
-    def initialize;end
-    def factorial n
-        return 'Error' if n < 0
-        return 1 if n == 0
-        n * factorial(n-1)
-    end
+  def factorial(number)
+    return 'Error' if number.negative?
+    return 1 if number.zero?
+
+    number * factorial(number - 1)
+  end
 end
