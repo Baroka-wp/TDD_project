@@ -5,4 +5,10 @@ class Solver
 
     number * factorial(number - 1)
   end
+
+  def reverse(string)
+    return 'Error' if string.class != String
+
+    string.reverse
+  end
 end
